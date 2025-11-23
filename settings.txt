@@ -1,0 +1,2 @@
+default_id64=76561198289153961
+apikey=jkhsdfljsdflkjsdflkjsdflksjdf
